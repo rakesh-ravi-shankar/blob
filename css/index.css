@@ -1,0 +1,25 @@
+#game-canvas {
+	background-color : #323232;
+	display: block;
+	margin: auto;
+}
+
+#game-title {
+	text-align: center;
+}
+
+#game-over-display {
+	visibility: hidden;
+	color: red;
+	text-align: center;
+}
+
+#restart {
+	visibility: hidden;
+	display: block;
+	margin: auto;
+	border-radius: 8px;
+	background-color: #374571;
+	color: white;
+	font-size: 2em;
+}
